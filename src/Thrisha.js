@@ -10,6 +10,8 @@ function Thrisha () {
     <div className="flex justify-center items-center">
       <h1>Thrisha</h1>
       <p>Thrisha is a 7th grader who loves to play soccer.</p>
+      <p>Thrisha is {a} years old.</p>
+      <p>Thrisha is {a} years old.</p>
     </div>
   );
 }

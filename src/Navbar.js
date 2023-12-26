@@ -11,6 +11,7 @@ function Navbar () {
                 <p>Contact</p>
                 <button className="border-2 p-2 hover:bg-red-600">signin</button>
                 <button>Signup</button>
+                <button>Signup</button>
             </div>
         </div>
     )
